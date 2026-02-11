@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I’m a passionate learner aiming to build a strong career in DevOps engineering. I enjoy working with automation tools, CI/CD pipelines, and containerized applications, and I’m continuously improving my skills through hands-on projects<br><br>I’m currently working on<br><br>Practicing Docker and GitHub Actions<br><br>Building simple CI/CD pipelines<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly DevOps projects<br><br>🤝 I’m looking for help with<br><br>CI/CD best practices<br><br>Cloud and deployment basics<br><br>🌱 I’m currently learning<br><br>Docker<br><br>GitHub Actions<br><br>AWS<br><br>Linux basics
+<br><br>I’m a passionate learner aiming to build a strong career in DevOps engineering. I enjoy working with automation tools, CI/CD pipelines, and containerized applications, and I’m continuously improving my skills through hands-on projects<br><br>I’m currently working on<br><br>Practicing Docker and GitHub Actions<br><br>Building simple CI/CD pipelines<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly DevOps projects<br><br>🤝 I’m looking for help with<br><br>CI/CD best practices<br><br>Cloud and deployment basics<br><br>
 
 
 ## 🌐 Socials:
