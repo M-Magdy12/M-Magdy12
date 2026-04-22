@@ -1,8 +1,10 @@
 # 💫 About Me:
-<br><br>Junior DevOps Engineer with hands-on experience in Linux, Docker, Jenkins, 
+<h3>
+Junior DevOps Engineer with hands-on experience in Linux, Docker, Jenkins, 
 Terraform, AWS, and Kubernetes. Built CI/CD pipelines and cloud-based 
 deployments through training and projects. Seeking an internship or junior 
-DevOps role to contribute to real-world infrastructure and automation workflows<br><br>
+DevOps role to contribute to real-world infrastructure and automation workflows
+</h3>
 
 
 ## 🌐 Socials:
